@@ -7,5 +7,6 @@
     <entry key="search.everywhere.pattern.checking" value="false" />
     <entry key="parameter.info.max.visible.rows" value="10" />
     <entry key="ide.balloon.shadow.size" value="0" />
+    <entry key="ide.tooltip.initialDelay" value="250" />
   </component>
 </application>
