@@ -1,0 +1,30 @@
+<application>
+  <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="C#" value="true" />
+        <entry key="Config" value="true" />
+        <entry key="F#" value="true" />
+        <entry key="HTML" value="true" />
+        <entry key="JSON" value="true" />
+        <entry key="MSBuild" value="true" />
+        <entry key="Resx" value="true" />
+        <entry key="RuleSet" value="true" />
+        <entry key="VB" value="true" />
+        <entry key="XHTML" value="true" />
+        <entry key="XML" value="true" />
+        <entry key="yaml" value="true" />
+      </map>
+    </option>
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
+    <option name="IS_VIRTUAL_SPACE" value="true" />
+    <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="true" />
+    <option name="QUICK_DOC_ON_MOUSE_OVER_DELAY_MS" value="250" />
+    <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
+    <option name="IS_WHITESPACES_SHOWN" value="true" />
+    <option name="IS_INNER_WHITESPACES_SHOWN" value="false" />
+    <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
+    <option name="IS_DND_ENABLED" value="false" />
+    <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
+  </component>
+</application>

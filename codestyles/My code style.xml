@@ -1,0 +1,6 @@
+<code_scheme name="My code style" version="173">
+  <option name="SOFT_MARGINS" value="80,120" />
+  <stylecop>
+    <option name="ENABLED" value="true" />
+  </stylecop>
+</code_scheme>

@@ -1,0 +1,50 @@
+<keymap version="1" name="My keymap" parent="$default">
+  <action id="ActivateLogcatToolWindow">
+    <keyboard-shortcut first-keystroke="alt 6" />
+  </action>
+  <action id="ActivateTODOToolWindow" />
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="shift ctrl k" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="EditorSelectWord" />
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
+  <action id="Git.Commit.And.Push.Executor" />
+  <action id="GotoTest" />
+  <action id="HippieBackwardCompletion" />
+  <action id="HippieCompletion" />
+  <action id="Images.ShowThumbnails" />
+  <action id="InsertLiveTemplate" />
+  <action id="Macro.@q">
+    <keyboard-shortcut first-keystroke="shift ctrl f3" />
+  </action>
+  <action id="Macro.Leave // $ERROR$">
+    <keyboard-shortcut first-keystroke="ctrl alt numpad1" />
+  </action>
+  <action id="NextTab" />
+  <action id="PreviousTab" />
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
+  <action id="RunDashboard.ShowConfigurations" />
+  <action id="Vcs.Push">
+    <keyboard-shortcut first-keystroke="ctrl alt k" />
+  </action>
+</keymap>
