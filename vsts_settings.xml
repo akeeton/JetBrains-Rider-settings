@@ -1,13 +1,38 @@
 <application>
   <component name="VSTSSettings">
     <option name="serverContexts">
-      <array />
+      <array>
+        <ServerContextState>
+          <option name="type" value="TFS" />
+          <option name="uri" value="http://corpwtfspd001:8080/tfs" />
+          <option name="serverUri" value="http://corpwtfspd001:8080/tfs" />
+          <option name="userId" value="94a45b2a-81b9-4829-b741-879b3661897a" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;8e0c3361-7744-468b-bf66-7220a70aae54&quot;,&quot;name&quot;:&quot;DH&quot;,&quot;url&quot;:&quot;http://corpwtfspd001:8080/tfs/_apis/projectCollections/8e0c3361-7744-468b-bf66-7220a70aae54&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;The Team Project for D&amp;H corporate source code and Work Item management.&quot;,&quot;id&quot;:&quot;b4066147-d83f-4171-8809-4f9e7daa9579&quot;,&quot;name&quot;:&quot;Enterprise&quot;,&quot;revision&quot;:7,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;http://corpwtfspd001:8080/tfs/DH/_apis/projects/b4066147-d83f-4171-8809-4f9e7daa9579&quot;}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="TFS" />
+          <option name="uri" value="http://_TFS_LAST_USED_URL_" />
+          <option name="serverUri" value="http://_TFS_LAST_USED_URL_" />
+          <option name="userId" value="94a45b2a-81b9-4829-b741-879b3661897a" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;8e0c3361-7744-468b-bf66-7220a70aae54&quot;,&quot;name&quot;:&quot;DH&quot;,&quot;url&quot;:&quot;http://corpwtfspd001:8080/tfs/_apis/projectCollections/8e0c3361-7744-468b-bf66-7220a70aae54&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;The Team Project for D&amp;H corporate source code and Work Item management.&quot;,&quot;id&quot;:&quot;b4066147-d83f-4171-8809-4f9e7daa9579&quot;,&quot;name&quot;:&quot;Enterprise&quot;,&quot;revision&quot;:7,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;http://corpwtfspd001:8080/tfs/DH/_apis/projects/b4066147-d83f-4171-8809-4f9e7daa9579&quot;}" />
+        </ServerContextState>
+      </array>
     </option>
     <option name="properties">
       <array>
         <PropertyState>
           <option name="name" value="tfHome" />
           <option name="value" value="C:\bin\TEE-CLC-14.134.0\tf.cmd" />
+        </PropertyState>
+        <PropertyState>
+          <option name="name" value="repoRoot" />
+          <option name="value" value="C:\Users\Akeeton" />
+        </PropertyState>
+        <PropertyState>
+          <option name="name" value="lastContextKey" />
+          <option name="value" value="//_tfs_last_used_url_" />
         </PropertyState>
       </array>
     </option>
